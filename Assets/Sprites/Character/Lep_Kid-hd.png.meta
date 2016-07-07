@@ -1,0 +1,1146 @@
+fileFormatVersion: 2
+guid: 9448b991c4f83924c9bfbbb1b1178014
+timeCreated: 1465042622
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lep_Kid-hd_0
+    21300002: Lep_Kid-hd_1
+    21300004: Lep_Kid-hd_2
+    21300006: Lep_Kid-hd_3
+    21300008: Lep_Kid-hd_4
+    21300010: Lep_Kid-hd_5
+    21300012: Lep_Kid-hd_6
+    21300014: Lep_Kid-hd_7
+    21300016: Lep_Kid-hd_8
+    21300018: Lep_Kid-hd_9
+    21300020: Lep_Kid-hd_10
+    21300022: Lep_Kid-hd_11
+    21300024: Lep_Kid-hd_12
+    21300026: Lep_Kid-hd_13
+    21300028: Lep_Kid-hd_14
+    21300030: Lep_Kid-hd_15
+    21300032: Lep_Kid-hd_16
+    21300034: Lep_Kid-hd_17
+    21300036: Lep_Kid-hd_18
+    21300038: Lep_Kid-hd_19
+    21300040: Lep_Kid-hd_20
+    21300042: Lep_Kid-hd_21
+    21300044: Lep_Kid-hd_22
+    21300046: Lep_Kid-hd_23
+    21300048: Lep_Kid-hd_24
+    21300050: Lep_Kid-hd_25
+    21300052: Lep_Kid-hd_26
+    21300054: Lep_Kid-hd_27
+    21300056: Lep_Kid-hd_28
+    21300058: Lep_Kid-hd_29
+    21300060: Lep_Kid-hd_30
+    21300062: Lep_Kid-hd_31
+    21300064: Lep_Kid-hd_32
+    21300066: Lep_Kid-hd_33
+    21300068: Lep_Kid-hd_34
+    21300070: Lep_Kid-hd_35
+    21300072: Lep_Kid-hd_36
+    21300074: Lep_Kid-hd_37
+    21300076: Lep_Kid-hd_38
+    21300078: Lep_Kid-hd_39
+    21300080: Lep_Kid-hd_40
+    21300082: Lep_Kid-hd_41
+    21300084: Lep_Kid-hd_42
+    21300086: Lep_Kid-hd_43
+    21300088: Lep_Kid-hd_44
+    21300090: Lep_Kid-hd_45
+    21300092: Lep_Kid-hd_46
+    21300094: Lep_Kid-hd_47
+    21300096: Lep_Kid-hd_48
+    21300098: Lep_Kid-hd_49
+    21300100: Lep_Kid-hd_50
+    21300102: Lep_Kid-hd_51
+    21300104: Lep_Kid-hd_52
+    21300106: Lep_Kid-hd_53
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Lep_Kid-hd_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 419
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 24}
+        - {x: 25.5, y: 45}
+        - {x: -21.5, y: 45}
+        - {x: -36.5, y: 38}
+        - {x: -36.5, y: -45}
+        - {x: 21.5, y: -45}
+        - {x: 26.5, y: -38}
+        - {x: 26.5, y: -35}
+        - {x: 36.5, y: -20}
+    - name: Lep_Kid-hd_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 421
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 45.5}
+        - {x: -23, y: 42.5}
+        - {x: -23, y: -29.5}
+        - {x: -16, y: -45.5}
+        - {x: 23, y: -45.5}
+        - {x: 23, y: 45.5}
+    - name: Lep_Kid-hd_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 423
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 43.5}
+        - {x: -23.5, y: 38.5}
+        - {x: -23.5, y: -10.5}
+        - {x: -13.5, y: -43.5}
+        - {x: 22.5, y: -43.5}
+        - {x: 23.5, y: -39.5}
+        - {x: 23.5, y: 40.5}
+        - {x: 17.5, y: 43.5}
+    - name: Lep_Kid-hd_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 423
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 43.5}
+        - {x: -24, y: 33.5}
+        - {x: -24, y: -36.5}
+        - {x: -23, y: -43.5}
+        - {x: 24, y: -43.5}
+        - {x: 24, y: 37.5}
+        - {x: 17, y: 43.5}
+    - name: Lep_Kid-hd_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 425
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 42.5}
+        - {x: -27, y: 34.5}
+        - {x: -27, y: -11.5}
+        - {x: -19, y: -42.5}
+        - {x: 27, y: -42.5}
+        - {x: 27, y: 35.5}
+        - {x: 20, y: 42.5}
+    - name: Lep_Kid-hd_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 425
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 42}
+        - {x: -24, y: 30}
+        - {x: -24, y: 13}
+        - {x: -18, y: 9}
+        - {x: -17, y: -22}
+        - {x: -7, y: -42}
+        - {x: 24, y: -42}
+        - {x: 24, y: 30}
+        - {x: 16, y: 42}
+    - name: Lep_Kid-hd_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 425
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 42}
+        - {x: -24, y: 27}
+        - {x: -24, y: 3}
+        - {x: -23, y: -7}
+        - {x: -18, y: -42}
+        - {x: 24, y: -42}
+        - {x: 24, y: 41}
+        - {x: 23, y: 42}
+    - name: Lep_Kid-hd_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 425
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 42.5}
+        - {x: -20.5, y: 41.5}
+        - {x: -23.5, y: 39.5}
+        - {x: -23.5, y: -28.5}
+        - {x: -20.5, y: -42.5}
+        - {x: 23.5, y: -42.5}
+        - {x: 23.5, y: 39.5}
+        - {x: 21.5, y: 42.5}
+    - name: Lep_Kid-hd_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 427
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 40.5}
+        - {x: -30, y: -3.5}
+        - {x: -9, y: -40.5}
+        - {x: 21, y: -40.5}
+        - {x: 30, y: -37.5}
+        - {x: 30, y: 1.5}
+        - {x: -12, y: 40.5}
+    - name: Lep_Kid-hd_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 326
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 45}
+        - {x: -24.5, y: 34}
+        - {x: -24.5, y: -28}
+        - {x: -18.5, y: -45}
+        - {x: 24.5, y: -45}
+        - {x: 24.5, y: 44}
+        - {x: 20.5, y: 45}
+    - name: Lep_Kid-hd_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 328
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: -42.5}
+        - {x: 14.5, y: -42.5}
+        - {x: 24.5, y: -30.5}
+        - {x: 24.5, y: -23.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 15.5, y: -19.5}
+        - {x: 17.5, y: -11.5}
+        - {x: 24.5, y: 7.5}
+        - {x: 24.5, y: 33.5}
+        - {x: 21.5, y: 43.5}
+        - {x: 15.5, y: 44.5}
+        - {x: -20.5, y: 44.5}
+        - {x: -24.5, y: 40.5}
+        - {x: -24.5, y: -15.5}
+        - {x: -19.5, y: -39.5}
+        - {x: -6.5, y: -43.5}
+        - {x: -3.5, y: -44.5}
+        - {x: 6.5, y: -44.5}
+        - {x: 6.5, y: -43.5}
+        - {x: 7.5, y: -37.5}
+        - {x: 6.5, y: -34.5}
+    - name: Lep_Kid-hd_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 332
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 43.5}
+        - {x: -24.5, y: -43.5}
+        - {x: 9.5, y: -43.5}
+        - {x: 24.5, y: -39.5}
+        - {x: 24.5, y: 31.5}
+        - {x: 16.5, y: 43.5}
+    - name: Lep_Kid-hd_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 334
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 43}
+        - {x: -16, y: 43}
+        - {x: -24, y: 31}
+        - {x: -24, y: 10}
+        - {x: -16, y: -30}
+        - {x: -5, y: -43}
+        - {x: 20, y: -43}
+        - {x: 24, y: -17}
+        - {x: 24, y: 40}
+        - {x: 23, y: 42}
+    - name: Lep_Kid-hd_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 336
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 42.5}
+        - {x: -27, y: 34.5}
+        - {x: -27, y: -7.5}
+        - {x: -17, y: -42.5}
+        - {x: 16, y: -42.5}
+        - {x: 27, y: -34.5}
+        - {x: 27, y: 39.5}
+        - {x: 26, y: 42.5}
+    - name: Lep_Kid-hd_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 338
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 42.5}
+        - {x: -23.5, y: 33.5}
+        - {x: -23.5, y: -42.5}
+        - {x: 23.5, y: -42.5}
+        - {x: 23.5, y: 41.5}
+        - {x: 19.5, y: 42.5}
+    - name: Lep_Kid-hd_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 338
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 42.5}
+        - {x: -24, y: 33.5}
+        - {x: -24, y: -18.5}
+        - {x: -18, y: -42.5}
+        - {x: 17, y: -42.5}
+        - {x: 24, y: -28.5}
+        - {x: 24, y: 42.5}
+    - name: Lep_Kid-hd_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 338
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 42.5}
+        - {x: -24, y: 33.5}
+        - {x: -24, y: -12.5}
+        - {x: -18, y: -42.5}
+        - {x: 15, y: -42.5}
+        - {x: 24, y: -32.5}
+        - {x: 24, y: 39.5}
+        - {x: 23, y: 42.5}
+    - name: Lep_Kid-hd_17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 362
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 30.5}
+        - {x: 3.5, y: 30.5}
+        - {x: 0.5, y: 29.5}
+        - {x: -9.5, y: 21.5}
+        - {x: -36.5, y: -8.5}
+        - {x: -39.5, y: -15.5}
+        - {x: -39.5, y: -30.5}
+        - {x: -0.5, y: -30.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 39.5, y: -3.5}
+        - {x: 39.5, y: 24.5}
+    - name: Lep_Kid-hd_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 233
+        width: 47
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -40}
+        - {x: 17.5, y: -43}
+        - {x: 23.5, y: -42}
+        - {x: 23.5, y: 34}
+        - {x: 19.5, y: 45}
+        - {x: -16.5, y: 45}
+        - {x: -23.5, y: 36}
+        - {x: -23.5, y: -10}
+        - {x: -14.5, y: -41}
+        - {x: -8.5, y: -45}
+        - {x: -1.5, y: -45}
+        - {x: 2.5, y: -41}
+        - {x: 2.5, y: -37}
+        - {x: 2.5, y: -38}
+    - name: Lep_Kid-hd_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 233
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 45}
+        - {x: -15, y: 45}
+        - {x: -23, y: 41}
+        - {x: -23, y: -24}
+        - {x: -21, y: -39}
+        - {x: -13, y: -45}
+        - {x: 17, y: -45}
+        - {x: 23, y: -31}
+        - {x: 23, y: 36}
+    - name: Lep_Kid-hd_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 43}
+        - {x: -29.5, y: 18}
+        - {x: -29.5, y: -18}
+        - {x: -11.5, y: -43}
+        - {x: 27.5, y: -43}
+        - {x: 29.5, y: -39}
+        - {x: 29.5, y: 42}
+        - {x: 27.5, y: 43}
+    - name: Lep_Kid-hd_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 247
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -12.5}
+        - {x: 27, y: -11.5}
+        - {x: 27, y: 27.5}
+        - {x: 19, y: 42.5}
+        - {x: -17, y: 42.5}
+        - {x: -27, y: 34.5}
+        - {x: -27, y: -7.5}
+        - {x: -17, y: -42.5}
+        - {x: 15, y: -42.5}
+        - {x: 16, y: -40.5}
+        - {x: 13, y: -18.5}
+        - {x: 12, y: -13.5}
+    - name: Lep_Kid-hd_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 249
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: -25.5}
+        - {x: 11.5, y: -25.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 42.5}
+        - {x: -15.5, y: 42.5}
+        - {x: -18.5, y: 38.5}
+        - {x: -23.5, y: 26.5}
+        - {x: -23.5, y: -36.5}
+        - {x: -16.5, y: -42.5}
+        - {x: 15.5, y: -42.5}
+        - {x: 23.5, y: -34.5}
+        - {x: 23.5, y: -33.5}
+        - {x: 14.5, y: -25.5}
+    - name: Lep_Kid-hd_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 251
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 42.5}
+        - {x: -24, y: 33.5}
+        - {x: -24, y: -12.5}
+        - {x: -18, y: -42.5}
+        - {x: 15, y: -42.5}
+        - {x: 24, y: -13.5}
+        - {x: 24, y: 32.5}
+        - {x: 19, y: 42.5}
+    - name: Lep_Kid-hd_24
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 251
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 42.5}
+        - {x: -24, y: -0.5}
+        - {x: -21, y: -11.5}
+        - {x: -16, y: -22.5}
+        - {x: -18, y: -42.5}
+        - {x: 22, y: -42.5}
+        - {x: 24, y: -34.5}
+        - {x: 24, y: 42.5}
+    - name: Lep_Kid-hd_25
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 253
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 41.5}
+        - {x: -26, y: 35.5}
+        - {x: -26, y: -20.5}
+        - {x: -15, y: -41.5}
+        - {x: 26, y: -41.5}
+        - {x: 26, y: 35.5}
+        - {x: 16, y: 41.5}
+    - name: Lep_Kid-hd_26
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 305
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -17.5}
+        - {x: -19.5, y: -23.5}
+        - {x: -15.5, y: -27.5}
+        - {x: -9.5, y: -27.5}
+        - {x: -4.5, y: -25.5}
+        - {x: -0.5, y: -27.5}
+        - {x: 29.5, y: -27.5}
+        - {x: 39.5, y: -18.5}
+        - {x: 39.5, y: 13.5}
+        - {x: 24.5, y: 27.5}
+        - {x: -39.5, y: 27.5}
+        - {x: -39.5, y: -27.5}
+        - {x: -20.5, y: -27.5}
+        - {x: -19.5, y: -24.5}
+        - {x: -19.5, y: -19.5}
+        - {x: -22.5, y: -15.5}
+    - name: Lep_Kid-hd_27
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 254
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -15}
+        - {x: -18, y: -24}
+        - {x: -3, y: -24}
+        - {x: -1, y: -20}
+        - {x: 7, y: -24}
+        - {x: 24, y: -24}
+    - name: Lep_Kid-hd_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 140
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 45}
+        - {x: -16, y: 44}
+        - {x: -23, y: 40}
+        - {x: -23, y: -45}
+        - {x: 20, y: -45}
+        - {x: 23, y: -33}
+        - {x: 23, y: 37}
+        - {x: 14, y: 45}
+    - name: Lep_Kid-hd_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 142
+        width: 46
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 44.5}
+        - {x: -16, y: 43.5}
+        - {x: -21, y: 34.5}
+        - {x: -23, y: 27.5}
+        - {x: -23, y: -44.5}
+        - {x: 23, y: -44.5}
+        - {x: 23, y: 44.5}
+    - name: Lep_Kid-hd_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 150
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 43}
+        - {x: -24, y: -31}
+        - {x: -9, y: -43}
+        - {x: 18, y: -43}
+        - {x: 24, y: -36}
+        - {x: 24, y: 43}
+    - name: Lep_Kid-hd_31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 152
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 42.5}
+        - {x: -28, y: 29.5}
+        - {x: -28, y: 10.5}
+        - {x: -18, y: -42.5}
+        - {x: 17, y: -42.5}
+        - {x: 28, y: -23.5}
+        - {x: 28, y: 31.5}
+        - {x: 23, y: 42.5}
+    - name: Lep_Kid-hd_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 160
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 42.5}
+        - {x: -24, y: -7.5}
+        - {x: -17, y: -42.5}
+        - {x: 13, y: -42.5}
+        - {x: 24, y: 2.5}
+        - {x: 24, y: 36.5}
+        - {x: 21, y: 42.5}
+    - name: Lep_Kid-hd_33
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 162
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 42.5}
+        - {x: -24, y: 35.5}
+        - {x: -24, y: -23.5}
+        - {x: -18, y: -42.5}
+        - {x: 24, y: -42.5}
+        - {x: 24, y: 38.5}
+        - {x: 18, y: 42.5}
+    - name: Lep_Kid-hd_34
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 164
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 42}
+        - {x: -24, y: 32}
+        - {x: -24, y: -11}
+        - {x: -20, y: -42}
+        - {x: 22, y: -42}
+        - {x: 24, y: -33}
+        - {x: 24, y: 36}
+        - {x: 16, y: 42}
+    - name: Lep_Kid-hd_35
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 166
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 41.5}
+        - {x: -32, y: 10.5}
+        - {x: -16, y: -29.5}
+        - {x: -4, y: -41.5}
+        - {x: 21, y: -41.5}
+        - {x: 32, y: -39.5}
+        - {x: 32, y: 7.5}
+        - {x: 15, y: 41.5}
+    - name: Lep_Kid-hd_36
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 224
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lep_Kid-hd_37
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 213
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lep_Kid-hd_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 162
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: -9, y: -24}
+        - {x: -9, y: -19}
+        - {x: 8, y: -24}
+        - {x: 24, y: -24}
+    - name: Lep_Kid-hd_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 47
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 43}
+        - {x: 18, y: 45}
+        - {x: -18, y: 45}
+        - {x: -23, y: 30}
+        - {x: -23, y: -14}
+        - {x: -15, y: -42}
+        - {x: -12, y: -45}
+        - {x: 23, y: -45}
+    - name: Lep_Kid-hd_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 53
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 43.5}
+        - {x: -17.5, y: 43.5}
+        - {x: -17.5, y: 35.5}
+        - {x: -33.5, y: 37.5}
+        - {x: -33.5, y: 7.5}
+        - {x: -7.5, y: -43.5}
+        - {x: 11.5, y: -43.5}
+        - {x: 33.5, y: -37.5}
+        - {x: 33.5, y: 1.5}
+        - {x: 24.5, y: 16.5}
+    - name: Lep_Kid-hd_41
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 63
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 42.5}
+        - {x: -17, y: 42.5}
+        - {x: -29, y: 29.5}
+        - {x: -29, y: 10.5}
+        - {x: -19, y: -42.5}
+        - {x: 13, y: -42.5}
+        - {x: 13, y: -34.5}
+        - {x: 29, y: -7.5}
+        - {x: 29, y: 24.5}
+    - name: Lep_Kid-hd_42
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 65
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 42.5}
+        - {x: -28.5, y: 41.5}
+        - {x: -28.5, y: -7.5}
+        - {x: -18.5, y: -42.5}
+        - {x: 15.5, y: -42.5}
+        - {x: 28.5, y: -9.5}
+        - {x: 28.5, y: 35.5}
+        - {x: 14.5, y: 42.5}
+    - name: Lep_Kid-hd_43
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 73
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 42}
+        - {x: -17, y: 42}
+        - {x: -24, y: 35}
+        - {x: -24, y: 0}
+        - {x: -18, y: -23}
+        - {x: -11, y: -42}
+        - {x: 24, y: -42}
+        - {x: 24, y: 41}
+        - {x: 23, y: 41}
+    - name: Lep_Kid-hd_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 75
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 42}
+        - {x: -23.5, y: 39}
+        - {x: -23.5, y: -6}
+        - {x: -17.5, y: -42}
+        - {x: 21.5, y: -42}
+        - {x: 23.5, y: -36}
+        - {x: 23.5, y: 39}
+        - {x: 17.5, y: 42}
+    - name: Lep_Kid-hd_45
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 79
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 41.5}
+        - {x: -32, y: 41.5}
+        - {x: -32, y: -19.5}
+        - {x: -29, y: -21.5}
+        - {x: -21, y: -21.5}
+        - {x: -21, y: -30.5}
+        - {x: -18, y: -40.5}
+        - {x: -15, y: -41.5}
+        - {x: 28, y: -41.5}
+        - {x: 32, y: -36.5}
+        - {x: 32, y: -4.5}
+        - {x: 22, y: 12.5}
+    - name: Lep_Kid-hd_46
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 113
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23.5}
+        - {x: -24, y: 8.5}
+        - {x: -22, y: 7.5}
+        - {x: -24, y: 1.5}
+        - {x: -24, y: -23.5}
+        - {x: 24, y: -23.5}
+        - {x: 24, y: 23.5}
+    - name: Lep_Kid-hd_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lep_Kid-hd_48
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Lep_Kid-hd_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 24}
+        - {x: -34, y: 24}
+        - {x: -43, y: 20}
+        - {x: -43, y: 5}
+        - {x: -40, y: 1}
+        - {x: -40, y: 2}
+        - {x: -43, y: -2}
+        - {x: -40, y: -10}
+        - {x: -35, y: -20}
+        - {x: -31, y: -23}
+        - {x: -18, y: -24}
+        - {x: 42, y: -24}
+        - {x: 43, y: -18}
+        - {x: 43, y: 14}
+        - {x: 39, y: 17}
+    - name: Lep_Kid-hd_50
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 29.5}
+        - {x: -15.5, y: 29.5}
+        - {x: -42.5, y: 22.5}
+        - {x: -42.5, y: -12.5}
+        - {x: -40.5, y: -13.5}
+        - {x: -5.5, y: -29.5}
+        - {x: 20.5, y: -29.5}
+        - {x: 23.5, y: -27.5}
+        - {x: 42.5, y: -11.5}
+        - {x: 42.5, y: 16.5}
+    - name: Lep_Kid-hd_51
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 30.5}
+        - {x: -0.5, y: 30.5}
+        - {x: -40.5, y: 0.5}
+        - {x: -40.5, y: -30.5}
+        - {x: 24.5, y: -30.5}
+        - {x: 40.5, y: -6.5}
+        - {x: 40.5, y: 13.5}
+        - {x: 38.5, y: 21.5}
+    - name: Lep_Kid-hd_52
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 4
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 34}
+        - {x: -24, y: 22}
+        - {x: -24, y: -27}
+        - {x: -22, y: -34}
+        - {x: 15, y: -34}
+        - {x: 24, y: -17}
+        - {x: 24, y: 25}
+        - {x: 15, y: 34}
+    - name: Lep_Kid-hd_53
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 22
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 27.5}
+        - {x: -40, y: -26.5}
+        - {x: -39, y: -27.5}
+        - {x: 33, y: -27.5}
+        - {x: 40, y: -26.5}
+        - {x: 40, y: 21.5}
+        - {x: 26, y: 27.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

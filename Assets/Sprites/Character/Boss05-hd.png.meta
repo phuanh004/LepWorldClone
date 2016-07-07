@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: edb737ee6c6271e489ba4566fe71e3ed
+timeCreated: 1467171168
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boss05-hd_0
+    21300002: Boss05-hd_1
+    21300004: Boss05-hd_2
+    21300006: Boss05-hd_3
+    21300008: Boss05-hd_4
+    21300010: Boss05-hd_5
+    21300012: Boss05-hd_6
+    21300014: Boss05-hd_7
+    21300016: Boss05-hd_8
+    21300018: Boss05-hd_9
+    21300020: Boss05-hd_10
+    21300022: Boss05-hd_11
+    21300024: Boss05-hd_12
+    21300026: Boss05-hd_13
+    21300028: Boss05-hd_14
+    21300030: Boss05-hd_15
+    21300032: Boss05-hd_16
+    21300034: Boss05-hd_17
+    21300036: Boss05-hd_18
+    21300038: Boss05-hd_19
+    21300040: Boss05-hd_20
+    21300042: Boss05-hd_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Boss05-hd_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 698
+        width: 162
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 105.5}
+        - {x: -14, y: 105.5}
+        - {x: -81, y: 61.5}
+        - {x: -81, y: -59.5}
+        - {x: -50, y: -105.5}
+        - {x: 71, y: -105.5}
+        - {x: 81, y: -57.5}
+        - {x: 81, y: 16.5}
+        - {x: 61, y: 101.5}
+    - name: Boss05-hd_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 676
+        width: 160
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 106}
+        - {x: -65, y: 57}
+        - {x: -80, y: 31}
+        - {x: -80, y: -49}
+        - {x: -18, y: -106}
+        - {x: 80, y: -106}
+        - {x: 80, y: 49}
+        - {x: 61, y: 106}
+    - name: Boss05-hd_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 676
+        width: 162
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 105}
+        - {x: -17, y: 105}
+        - {x: -77, y: 29}
+        - {x: -81, y: 20}
+        - {x: -81, y: -68}
+        - {x: -12, y: -105}
+        - {x: 76, y: -105}
+        - {x: 81, y: -88}
+        - {x: 81, y: 50}
+        - {x: 61, y: 101}
+    - name: Boss05-hd_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 480
+        width: 143
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 108}
+        - {x: -71.5, y: 20}
+        - {x: -71.5, y: -63}
+        - {x: -56.5, y: -108}
+        - {x: 34.5, y: -108}
+        - {x: 71.5, y: 20}
+        - {x: 71.5, y: 107}
+        - {x: 66.5, y: 108}
+    - name: Boss05-hd_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 462
+        width: 161
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.5, y: 95.5}
+        - {x: 44.5, y: 105.5}
+        - {x: -16.5, y: 105.5}
+        - {x: -47.5, y: 57.5}
+        - {x: -33.5, y: 32.5}
+        - {x: -24.5, y: 28.5}
+        - {x: -57.5, y: 32.5}
+        - {x: -80.5, y: 19.5}
+        - {x: -80.5, y: -20.5}
+        - {x: -58.5, y: -35.5}
+        - {x: -31.5, y: -45.5}
+        - {x: -27.5, y: -38.5}
+        - {x: -11.5, y: -66.5}
+        - {x: 2.5, y: -78.5}
+        - {x: 2.5, y: -98.5}
+        - {x: 6.5, y: -105.5}
+        - {x: 69.5, y: -105.5}
+        - {x: 74.5, y: -96.5}
+        - {x: 80.5, y: -64.5}
+        - {x: 80.5, y: 38.5}
+    - name: Boss05-hd_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 462
+        width: 151
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 106}
+        - {x: -75.5, y: 52}
+        - {x: -75.5, y: -80}
+        - {x: -68.5, y: -93}
+        - {x: -20.5, y: -106}
+        - {x: 44.5, y: -106}
+        - {x: 75.5, y: -80}
+        - {x: 75.5, y: 28}
+        - {x: 40.5, y: 106}
+    - name: Boss05-hd_6
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 430
+        width: 163
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: 104.5}
+        - {x: -4.5, y: 104.5}
+        - {x: -34.5, y: 74.5}
+        - {x: -54.5, y: 28.5}
+        - {x: -29.5, y: 25.5}
+        - {x: -34.5, y: -1.5}
+        - {x: -34.5, y: 7.5}
+        - {x: -39.5, y: 11.5}
+        - {x: -72.5, y: 10.5}
+        - {x: -81.5, y: -3.5}
+        - {x: -81.5, y: -35.5}
+        - {x: -78.5, y: -44.5}
+        - {x: -66.5, y: -46.5}
+        - {x: -49.5, y: -55.5}
+        - {x: -31.5, y: -52.5}
+        - {x: -28.5, y: -51.5}
+        - {x: -28.5, y: -43.5}
+        - {x: -28.5, y: -44.5}
+        - {x: -26.5, y: -49.5}
+        - {x: -22.5, y: -55.5}
+        - {x: -19.5, y: -65.5}
+        - {x: 1.5, y: -104.5}
+        - {x: 75.5, y: -104.5}
+        - {x: 81.5, y: -48.5}
+        - {x: 81.5, y: 38.5}
+        - {x: 78.5, y: 61.5}
+    - name: Boss05-hd_7
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 424
+        width: 156
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -15}
+        - {x: -50, y: -19}
+        - {x: -48, y: -19}
+        - {x: -48, y: -20}
+        - {x: -47, y: -20}
+        - {x: -50, y: -19}
+        - {x: -51, y: -19}
+        - {x: -54, y: -22}
+        - {x: -70, y: -12}
+        - {x: -78, y: -29}
+        - {x: -78, y: -53}
+        - {x: -67, y: -70}
+        - {x: -64, y: -71}
+        - {x: -60, y: -67}
+        - {x: -53, y: -66}
+        - {x: -50, y: -64}
+        - {x: -28, y: -97}
+        - {x: 78, y: -97}
+        - {x: 78, y: 68}
+        - {x: 71, y: 92}
+        - {x: 40, y: 97}
+        - {x: -41, y: 97}
+        - {x: -69, y: 24}
+    - name: Boss05-hd_8
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 498
+        width: 185
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 91}
+        - {x: -44.5, y: 91}
+        - {x: -92.5, y: 56}
+        - {x: -92.5, y: -75}
+        - {x: 5.5, y: -91}
+        - {x: 69.5, y: -91}
+        - {x: 92.5, y: -77}
+        - {x: 92.5, y: -20}
+        - {x: 42.5, y: 77}
+    - name: Boss05-hd_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 246
+        width: 140
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 116}
+        - {x: -64, y: -17}
+        - {x: -70, y: -30}
+        - {x: -70, y: -112}
+        - {x: -67, y: -116}
+        - {x: -13, y: -116}
+        - {x: 52, y: -73}
+        - {x: 70, y: -22}
+        - {x: 70, y: 116}
+    - name: Boss05-hd_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 246
+        width: 179
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.5, y: 24.5}
+        - {x: -69.5, y: 16.5}
+        - {x: -64.5, y: 18.5}
+        - {x: -61.5, y: 20.5}
+        - {x: -39.5, y: -34.5}
+        - {x: -27.5, y: -82.5}
+        - {x: -1.5, y: -106.5}
+        - {x: 89.5, y: -106.5}
+        - {x: 89.5, y: 45.5}
+        - {x: 83.5, y: 106.5}
+        - {x: -85.5, y: 106.5}
+        - {x: -89.5, y: 104.5}
+    - name: Boss05-hd_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 218
+        width: 173
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.5, y: 16.5}
+        - {x: 51.5, y: 104.5}
+        - {x: -38.5, y: 104.5}
+        - {x: -86.5, y: 68.5}
+        - {x: -86.5, y: 26.5}
+        - {x: -78.5, y: 20.5}
+        - {x: -75.5, y: 0.5}
+        - {x: -57.5, y: 2.5}
+        - {x: -55.5, y: 8.5}
+        - {x: -55.5, y: 9.5}
+        - {x: -55.5, y: 8.5}
+        - {x: -57.5, y: -1.5}
+        - {x: -29.5, y: -104.5}
+        - {x: 86.5, y: -104.5}
+        - {x: 86.5, y: -60.5}
+        - {x: 83.5, y: -51.5}
+        - {x: 76.5, y: -48.5}
+        - {x: 71.5, y: -51.5}
+    - name: Boss05-hd_12
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 214
+        width: 149
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 103.5}
+        - {x: -50.5, y: 83.5}
+        - {x: -74.5, y: -12.5}
+        - {x: -74.5, y: -70.5}
+        - {x: -7.5, y: -103.5}
+        - {x: 74.5, y: -103.5}
+        - {x: 74.5, y: 73.5}
+        - {x: 31.5, y: 103.5}
+    - name: Boss05-hd_13
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 210
+        width: 136
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 101}
+        - {x: -26, y: 101}
+        - {x: -65, y: 53}
+        - {x: -68, y: 46}
+        - {x: -68, y: -101}
+        - {x: 67, y: -101}
+        - {x: 68, y: -98}
+        - {x: 68, y: 60}
+        - {x: 31, y: 97}
+    - name: Boss05-hd_14
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 336
+        width: 204
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -32}
+        - {x: 36, y: -29}
+        - {x: 77, y: -15}
+        - {x: 102, y: -4}
+        - {x: 102, y: 80}
+        - {x: -102, y: 80}
+        - {x: -102, y: -41}
+        - {x: -56, y: -80}
+        - {x: 21, y: -80}
+        - {x: 30, y: -58}
+        - {x: 32, y: -40}
+        - {x: 31, y: -37}
+    - name: Boss05-hd_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 148
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 120.5}
+        - {x: -24, y: 72.5}
+        - {x: -74, y: -35.5}
+        - {x: -74, y: -113.5}
+        - {x: -71, y: -120.5}
+        - {x: -8, y: -120.5}
+        - {x: 74, y: -90.5}
+        - {x: 74, y: 106.5}
+        - {x: 63, y: 120.5}
+    - name: Boss05-hd_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 170
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 106.5}
+        - {x: -85, y: 92.5}
+        - {x: -85, y: 21.5}
+        - {x: -74, y: 1.5}
+        - {x: -56, y: 4.5}
+        - {x: -54, y: 10.5}
+        - {x: -54, y: 11.5}
+        - {x: -54, y: 10.5}
+        - {x: -56, y: 0.5}
+        - {x: -85, y: -38.5}
+        - {x: -85, y: -39.5}
+        - {x: -3, y: -106.5}
+        - {x: 81, y: -106.5}
+        - {x: 85, y: -97.5}
+        - {x: 85, y: -26.5}
+        - {x: 72, y: 106.5}
+    - name: Boss05-hd_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2
+        width: 154
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 107}
+        - {x: -47, y: 107}
+        - {x: -77, y: 56}
+        - {x: -77, y: -83}
+        - {x: -49, y: -107}
+        - {x: 76, y: -107}
+        - {x: 77, y: -103}
+        - {x: 77, y: 23}
+        - {x: 23, y: 102}
+    - name: Boss05-hd_18
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2
+        width: 163
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 104.5}
+        - {x: -16.5, y: 104.5}
+        - {x: -81.5, y: 35.5}
+        - {x: -81.5, y: -58.5}
+        - {x: -58.5, y: -104.5}
+        - {x: 81.5, y: -104.5}
+        - {x: 81.5, y: 11.5}
+        - {x: 58.5, y: 95.5}
+    - name: Boss05-hd_19
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2
+        width: 154
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 102.5}
+        - {x: -11, y: 102.5}
+        - {x: -36, y: 86.5}
+        - {x: -68, y: 50.5}
+        - {x: -77, y: 36.5}
+        - {x: -77, y: -88.5}
+        - {x: -59, y: -102.5}
+        - {x: 63, y: -102.5}
+        - {x: 77, y: -14.5}
+        - {x: 77, y: 15.5}
+        - {x: 47, y: 94.5}
+    - name: Boss05-hd_20
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 172
+        width: 203
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 80.5}
+        - {x: -101.5, y: 24.5}
+        - {x: -101.5, y: -11.5}
+        - {x: -88.5, y: -12.5}
+        - {x: -79.5, y: -27.5}
+        - {x: -64.5, y: -19.5}
+        - {x: -63.5, y: -14.5}
+        - {x: -63.5, y: -19.5}
+        - {x: -65.5, y: -36.5}
+        - {x: 22.5, y: -80.5}
+        - {x: 86.5, y: -80.5}
+        - {x: 101.5, y: -45.5}
+        - {x: 101.5, y: -10.5}
+        - {x: 20.5, y: 80.5}
+    - name: Boss05-hd_21
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2
+        width: 204
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 84}
+        - {x: -102, y: 47}
+        - {x: -102, y: -24}
+        - {x: -18, y: -84}
+        - {x: 27, y: -84}
+        - {x: 65, y: -81}
+        - {x: 102, y: -4}
+        - {x: 102, y: 84}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

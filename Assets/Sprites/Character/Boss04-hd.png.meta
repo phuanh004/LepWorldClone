@@ -1,0 +1,935 @@
+fileFormatVersion: 2
+guid: 9038b3de82e5c8b4782efcb1fe49c8a9
+timeCreated: 1467171778
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boss04-hd_0
+    21300002: Boss04-hd_1
+    21300004: Boss04-hd_2
+    21300006: Boss04-hd_3
+    21300008: Boss04-hd_4
+    21300010: Boss04-hd_5
+    21300012: Boss04-hd_6
+    21300014: Boss04-hd_7
+    21300016: Boss04-hd_8
+    21300018: Boss04-hd_9
+    21300020: Boss04-hd_10
+    21300022: Boss04-hd_11
+    21300024: Boss04-hd_12
+    21300026: Boss04-hd_13
+    21300028: Boss04-hd_14
+    21300030: Boss04-hd_15
+    21300032: Boss04-hd_16
+    21300034: Boss04-hd_17
+    21300036: Boss04-hd_18
+    21300038: Boss04-hd_19
+    21300040: Boss04-hd_20
+    21300042: Boss04-hd_21
+    21300044: Boss04-hd_22
+    21300046: Boss04-hd_23
+    21300048: Boss04-hd_24
+    21300050: Boss04-hd_25
+    21300052: Boss04-hd_26
+    21300054: Boss04-hd_27
+    21300056: Boss04-hd_28
+    21300058: Boss04-hd_29
+    21300060: Boss04-hd_30
+    21300062: Boss04-hd_31
+    21300064: Boss04-hd_32
+    21300066: Boss04-hd_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Boss04-hd_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 718
+        width: 176
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 108}
+        - {x: -57, y: 99}
+        - {x: -79, y: 56}
+        - {x: -88, y: 13}
+        - {x: -88, y: -35}
+        - {x: -55, y: -108}
+        - {x: 44, y: -108}
+        - {x: 88, y: -14}
+        - {x: 88, y: 98}
+        - {x: 49, y: 108}
+    - name: Boss04-hd_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 912
+        width: 114
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -13}
+        - {x: 11, y: -47}
+        - {x: 57, y: -47}
+        - {x: 57, y: -6}
+        - {x: 42, y: 47}
+        - {x: -57, y: 47}
+        - {x: -57, y: 17}
+    - name: Boss04-hd_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 828
+        width: 159
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 97}
+        - {x: -57.5, y: 79}
+        - {x: -79.5, y: 14}
+        - {x: -79.5, y: -38}
+        - {x: -71.5, y: -46}
+        - {x: -56.5, y: -54}
+        - {x: 4.5, y: -97}
+        - {x: 79.5, y: -97}
+        - {x: 79.5, y: 74}
+        - {x: 58.5, y: 97}
+    - name: Boss04-hd_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 822
+        width: 170
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 99.5}
+        - {x: -85, y: 42.5}
+        - {x: -85, y: 7.5}
+        - {x: -84, y: 1.5}
+        - {x: -61, y: -15.5}
+        - {x: -15, y: -62.5}
+        - {x: -11, y: -60.5}
+        - {x: -12, y: -51.5}
+        - {x: -7, y: -65.5}
+        - {x: -1, y: -76.5}
+        - {x: -13, y: -77.5}
+        - {x: -20, y: -83.5}
+        - {x: -26, y: -98.5}
+        - {x: -21, y: -99.5}
+        - {x: 85, y: -99.5}
+        - {x: 85, y: 99.5}
+    - name: Boss04-hd_4
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 806
+        width: 168
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 97.5}
+        - {x: -84, y: 90.5}
+        - {x: -84, y: -21.5}
+        - {x: -2, y: -77.5}
+        - {x: 1, y: -77.5}
+        - {x: -21, y: -77.5}
+        - {x: -15, y: -97.5}
+        - {x: 74, y: -97.5}
+        - {x: 84, y: -55.5}
+        - {x: 84, y: 97.5}
+    - name: Boss04-hd_5
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 806
+        width: 149
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 97.5}
+        - {x: -74.5, y: 70.5}
+        - {x: -74.5, y: -49.5}
+        - {x: -46.5, y: -97.5}
+        - {x: 62.5, y: -97.5}
+        - {x: 74.5, y: -71.5}
+        - {x: 74.5, y: 83.5}
+        - {x: 68.5, y: 97.5}
+    - name: Boss04-hd_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 497
+        width: 142
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 109.5}
+        - {x: -68, y: 46.5}
+        - {x: -71, y: 26.5}
+        - {x: -71, y: -109.5}
+        - {x: 23, y: -109.5}
+        - {x: 44, y: -108.5}
+        - {x: 47, y: -103.5}
+        - {x: 71, y: -83.5}
+        - {x: 71, y: 109.5}
+    - name: Boss04-hd_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 706
+        width: 170
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: 60.5}
+        - {x: 78, y: 93.5}
+        - {x: 71, y: 101.5}
+        - {x: 34, y: 101.5}
+        - {x: 30, y: 96.5}
+        - {x: 13, y: 101.5}
+        - {x: -5, y: 101.5}
+        - {x: -44, y: 83.5}
+        - {x: -49, y: 59.5}
+        - {x: -49, y: 33.5}
+        - {x: -34, y: 28.5}
+        - {x: -52, y: 33.5}
+        - {x: -85, y: 35.5}
+        - {x: -85, y: -18.5}
+        - {x: -26, y: -101.5}
+        - {x: 59, y: -101.5}
+        - {x: 82, y: -10.5}
+        - {x: 85, y: 18.5}
+        - {x: 85, y: 51.5}
+    - name: Boss04-hd_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 624
+        width: 156
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 101}
+        - {x: -76, y: 63}
+        - {x: -78, y: 46}
+        - {x: -78, y: 10}
+        - {x: -68, y: -10}
+        - {x: -54, y: -14}
+        - {x: -54, y: -12}
+        - {x: -46, y: -12}
+        - {x: -52, y: -12}
+        - {x: -60, y: -19}
+        - {x: -78, y: -27}
+        - {x: -78, y: -37}
+        - {x: -57, y: -54}
+        - {x: -15, y: -58}
+        - {x: -13, y: -63}
+        - {x: -12, y: -66}
+        - {x: -12, y: -65}
+        - {x: -31, y: -58}
+        - {x: -41, y: -61}
+        - {x: -40, y: -81}
+        - {x: -35, y: -84}
+        - {x: 2, y: -101}
+        - {x: 71, y: -101}
+        - {x: 78, y: -68}
+        - {x: 78, y: 101}
+    - name: Boss04-hd_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 620
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 100}
+        - {x: -48, y: 85}
+        - {x: -50, y: 50}
+        - {x: -85, y: 55}
+        - {x: -85, y: -14}
+        - {x: -51, y: -100}
+        - {x: 79, y: -100}
+        - {x: 85, y: -78}
+        - {x: 85, y: 100}
+    - name: Boss04-hd_10
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 609
+        width: 179
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.5, y: 97.5}
+        - {x: 20.5, y: 97.5}
+        - {x: -74.5, y: 57.5}
+        - {x: -89.5, y: 6.5}
+        - {x: -89.5, y: -31.5}
+        - {x: -74.5, y: -37.5}
+        - {x: -61.5, y: -37.5}
+        - {x: -60.5, y: -34.5}
+        - {x: -53.5, y: -57.5}
+        - {x: -51.5, y: -97.5}
+        - {x: -1.5, y: -97.5}
+        - {x: 88.5, y: -60.5}
+        - {x: 89.5, y: -47.5}
+        - {x: 89.5, y: 94.5}
+        - {x: 88.5, y: 96.5}
+    - name: Boss04-hd_11
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 602
+        width: 159
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 95.5}
+        - {x: 24.5, y: 89.5}
+        - {x: 6.5, y: 95.5}
+        - {x: -32.5, y: 95.5}
+        - {x: -79.5, y: 64.5}
+        - {x: -79.5, y: -95.5}
+        - {x: 73.5, y: -95.5}
+        - {x: 79.5, y: -43.5}
+        - {x: 79.5, y: 69.5}
+        - {x: 68.5, y: 95.5}
+    - name: Boss04-hd_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 496
+        width: 181
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 104}
+        - {x: 14.5, y: 92}
+        - {x: 31.5, y: 74}
+        - {x: 32.5, y: 67}
+        - {x: 31.5, y: 72}
+        - {x: 30.5, y: 75}
+        - {x: 16.5, y: 89}
+        - {x: -90.5, y: 99}
+        - {x: -90.5, y: -13}
+        - {x: -47.5, y: -104}
+        - {x: 79.5, y: -104}
+        - {x: 90.5, y: -67}
+        - {x: 90.5, y: 56}
+        - {x: 71.5, y: 104}
+    - name: Boss04-hd_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 418
+        width: 165
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78.5, y: 101.5}
+        - {x: 29.5, y: 101.5}
+        - {x: 27.5, y: 97.5}
+        - {x: 37.5, y: 85.5}
+        - {x: 28.5, y: 75.5}
+        - {x: 29.5, y: 88.5}
+        - {x: 16.5, y: 100.5}
+        - {x: 14.5, y: 101.5}
+        - {x: -33.5, y: 101.5}
+        - {x: -82.5, y: 81.5}
+        - {x: -82.5, y: 15.5}
+        - {x: -24.5, y: -101.5}
+        - {x: 36.5, y: -101.5}
+        - {x: 77.5, y: -70.5}
+        - {x: 82.5, y: -6.5}
+        - {x: 82.5, y: 77.5}
+    - name: Boss04-hd_14
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 416
+        width: 158
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 101}
+        - {x: -55, y: 87}
+        - {x: -79, y: 67}
+        - {x: -79, y: -78}
+        - {x: -8, y: -74}
+        - {x: -6, y: -74}
+        - {x: -9, y: -74}
+        - {x: -25, y: -77}
+        - {x: -35, y: -81}
+        - {x: -32, y: -88}
+        - {x: -23, y: -101}
+        - {x: 46, y: -101}
+        - {x: 79, y: -60}
+        - {x: 79, y: 75}
+        - {x: 68, y: 101}
+    - name: Boss04-hd_15
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 408
+        width: 170
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 98.5}
+        - {x: 30, y: 94.5}
+        - {x: 37, y: 85.5}
+        - {x: 27, y: 95.5}
+        - {x: 14, y: 98.5}
+        - {x: -74, y: 98.5}
+        - {x: -85, y: 84.5}
+        - {x: -85, y: -6.5}
+        - {x: -83, y: -8.5}
+        - {x: -10, y: -65.5}
+        - {x: -7, y: -65.5}
+        - {x: -5, y: -63.5}
+        - {x: -5, y: -61.5}
+        - {x: -6, y: -58.5}
+        - {x: -5, y: -61.5}
+        - {x: -5, y: -64.5}
+        - {x: -20, y: -82.5}
+        - {x: -13, y: -98.5}
+        - {x: 54, y: -98.5}
+        - {x: 85, y: -31.5}
+        - {x: 85, y: 94.5}
+        - {x: 82, y: 98.5}
+    - name: Boss04-hd_16
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 404
+        width: 174
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 97.5}
+        - {x: -87, y: 15.5}
+        - {x: -87, y: -20.5}
+        - {x: -71, y: -44.5}
+        - {x: 1, y: -97.5}
+        - {x: 54, y: -97.5}
+        - {x: 87, y: -64.5}
+        - {x: 87, y: 62.5}
+        - {x: 48, y: 97.5}
+    - name: Boss04-hd_17
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 400
+        width: 144
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 95}
+        - {x: -72, y: 84}
+        - {x: -72, y: -33}
+        - {x: -47, y: -95}
+        - {x: 36, y: -95}
+        - {x: 58, y: -74}
+        - {x: 72, y: -51}
+        - {x: 72, y: 95}
+    - name: Boss04-hd_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 264
+        width: 155
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 77.5}
+        - {x: 28.5, y: 74.5}
+        - {x: -6.5, y: 114.5}
+        - {x: -38.5, y: 114.5}
+        - {x: -77.5, y: 54.5}
+        - {x: -77.5, y: -73.5}
+        - {x: -40.5, y: -114.5}
+        - {x: 55.5, y: -114.5}
+        - {x: 77.5, y: -45.5}
+        - {x: 77.5, y: 79.5}
+        - {x: 34.5, y: 89.5}
+    - name: Boss04-hd_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 230
+        width: 162
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 104}
+        - {x: -51, y: 77}
+        - {x: -81, y: -6}
+        - {x: -81, y: -54}
+        - {x: -59, y: -65}
+        - {x: -48, y: -66}
+        - {x: -43, y: -43}
+        - {x: -37, y: -42}
+        - {x: -45, y: -56}
+        - {x: -50, y: -72}
+        - {x: -67, y: -104}
+        - {x: 70, y: -104}
+        - {x: 81, y: -36}
+        - {x: 81, y: 104}
+    - name: Boss04-hd_20
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 210
+        width: 132
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 102.5}
+        - {x: 16, y: 91.5}
+        - {x: 17, y: 86.5}
+        - {x: 23, y: 82.5}
+        - {x: 19, y: 65.5}
+        - {x: 12, y: 63.5}
+        - {x: 19, y: 73.5}
+        - {x: 14, y: 98.5}
+        - {x: -2, y: 102.5}
+        - {x: -37, y: 102.5}
+        - {x: -66, y: 69.5}
+        - {x: -66, y: 35.5}
+        - {x: -65, y: 32.5}
+        - {x: -66, y: 30.5}
+        - {x: -66, y: -43.5}
+        - {x: -33, y: -77.5}
+        - {x: -29, y: -78.5}
+        - {x: -26, y: -78.5}
+        - {x: -40, y: -81.5}
+        - {x: -46, y: -85.5}
+        - {x: -40, y: -102.5}
+        - {x: 49, y: -102.5}
+        - {x: 66, y: -32.5}
+        - {x: 66, y: 102.5}
+    - name: Boss04-hd_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 210
+        width: 165
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: 102}
+        - {x: -82.5, y: 26}
+        - {x: -76.5, y: 12}
+        - {x: -42.5, y: -49}
+        - {x: -31.5, y: -41}
+        - {x: -6.5, y: -65}
+        - {x: -4.5, y: -65}
+        - {x: -6.5, y: -66}
+        - {x: -13.5, y: -61}
+        - {x: -24.5, y: -64}
+        - {x: -23.5, y: -86}
+        - {x: 30.5, y: -102}
+        - {x: 33.5, y: -93}
+        - {x: 33.5, y: -78}
+        - {x: 46.5, y: -102}
+        - {x: 77.5, y: -102}
+        - {x: 82.5, y: -88}
+        - {x: 82.5, y: 94}
+        - {x: 76.5, y: 102}
+    - name: Boss04-hd_22
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 206
+        width: 163
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.5, y: 99.5}
+        - {x: -81.5, y: 23.5}
+        - {x: -19.5, y: -99.5}
+        - {x: 53.5, y: -99.5}
+        - {x: 81.5, y: -32.5}
+        - {x: 81.5, y: 99.5}
+    - name: Boss04-hd_23
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 204
+        width: 172
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 99}
+        - {x: -51, y: 67}
+        - {x: -53, y: 44}
+        - {x: -35, y: 31}
+        - {x: -86, y: 30}
+        - {x: -86, y: 3}
+        - {x: -64, y: -17}
+        - {x: -22, y: -55}
+        - {x: -13, y: -63}
+        - {x: -9, y: -62}
+        - {x: -21, y: -83}
+        - {x: -27, y: -96}
+        - {x: -16, y: -99}
+        - {x: 66, y: -99}
+        - {x: 76, y: -51}
+        - {x: 86, y: 5}
+        - {x: 86, y: 99}
+    - name: Boss04-hd_24
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 202
+        width: 170
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 97.5}
+        - {x: 32, y: 93.5}
+        - {x: 27, y: 97.5}
+        - {x: -74, y: 97.5}
+        - {x: -85, y: 83.5}
+        - {x: -85, y: -24.5}
+        - {x: -26, y: -94.5}
+        - {x: -15, y: -97.5}
+        - {x: 72, y: -97.5}
+        - {x: 85, y: -70.5}
+        - {x: 85, y: 95.5}
+        - {x: 78, y: 97.5}
+    - name: Boss04-hd_25
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 201
+        width: 187
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78.5, y: 93.5}
+        - {x: -55.5, y: 93.5}
+        - {x: -77.5, y: 86.5}
+        - {x: -93.5, y: 43.5}
+        - {x: -93.5, y: -3.5}
+        - {x: -89.5, y: -14.5}
+        - {x: -71.5, y: -19.5}
+        - {x: -63.5, y: -41.5}
+        - {x: -38.5, y: -54.5}
+        - {x: -35.5, y: -55.5}
+        - {x: -24.5, y: -59.5}
+        - {x: -18.5, y: -93.5}
+        - {x: 15.5, y: -93.5}
+        - {x: 85.5, y: -26.5}
+        - {x: 93.5, y: 28.5}
+        - {x: 93.5, y: 75.5}
+    - name: Boss04-hd_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 154
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 74}
+        - {x: 14, y: 63}
+        - {x: 27, y: 98}
+        - {x: 34, y: 130}
+        - {x: -9, y: 130}
+        - {x: -77, y: 103}
+        - {x: -77, y: -8}
+        - {x: -57, y: -86}
+        - {x: 3, y: -108}
+        - {x: 8, y: -109}
+        - {x: -9, y: -110}
+        - {x: -16, y: -112}
+        - {x: -10, y: -130}
+        - {x: 70, y: -130}
+        - {x: 77, y: -81}
+        - {x: 77, y: 47}
+        - {x: 56, y: 75}
+    - name: Boss04-hd_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2
+        width: 160
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: 112.5}
+        - {x: -80, y: -74.5}
+        - {x: -32, y: -92.5}
+        - {x: -30, y: -92.5}
+        - {x: -27, y: -91.5}
+        - {x: -17, y: -92.5}
+        - {x: -42, y: -92.5}
+        - {x: -46, y: -96.5}
+        - {x: -54, y: -110.5}
+        - {x: -43, y: -112.5}
+        - {x: 39, y: -112.5}
+        - {x: 80, y: 18.5}
+        - {x: 80, y: 103.5}
+        - {x: 42, y: 112.5}
+    - name: Boss04-hd_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 182
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 102.5}
+        - {x: -91, y: 69.5}
+        - {x: -91, y: -36.5}
+        - {x: -56, y: -102.5}
+        - {x: 22, y: -102.5}
+        - {x: 91, y: -6.5}
+        - {x: 91, y: 34.5}
+        - {x: 33, y: 102.5}
+    - name: Boss04-hd_29
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2
+        width: 181
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 101}
+        - {x: -40.5, y: 101}
+        - {x: -79.5, y: 62}
+        - {x: -73.5, y: 40}
+        - {x: -69.5, y: 37}
+        - {x: -66.5, y: 36}
+        - {x: -58.5, y: 36}
+        - {x: -56.5, y: 28}
+        - {x: -63.5, y: 35}
+        - {x: -66.5, y: 36}
+        - {x: -70.5, y: 36}
+        - {x: -73.5, y: 39}
+        - {x: -80.5, y: 41}
+        - {x: -90.5, y: 35}
+        - {x: -90.5, y: -4}
+        - {x: -50.5, y: -101}
+        - {x: 38.5, y: -101}
+        - {x: 90.5, y: -38}
+        - {x: 90.5, y: 36}
+        - {x: 76.5, y: 84}
+    - name: Boss04-hd_30
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2
+        width: 156
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: 100}
+        - {x: -78, y: -1}
+        - {x: -75, y: -27}
+        - {x: -65, y: -23}
+        - {x: -62, y: -20}
+        - {x: -45, y: -46}
+        - {x: -29, y: -50}
+        - {x: -34, y: -55}
+        - {x: -36, y: -61}
+        - {x: -39, y: -77}
+        - {x: -15, y: -100}
+        - {x: 78, y: -100}
+        - {x: 78, y: 95}
+        - {x: 73, y: 100}
+    - name: Boss04-hd_31
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2
+        width: 163
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 86.5}
+        - {x: 20.5, y: 64.5}
+        - {x: 19.5, y: 78.5}
+        - {x: 15.5, y: 84.5}
+        - {x: 5.5, y: 98.5}
+        - {x: -23.5, y: 98.5}
+        - {x: -57.5, y: 93.5}
+        - {x: -81.5, y: 70.5}
+        - {x: -81.5, y: -98.5}
+        - {x: 81.5, y: -98.5}
+        - {x: 81.5, y: 98.5}
+        - {x: 14.5, y: 98.5}
+        - {x: 10.5, y: 93.5}
+    - name: Boss04-hd_32
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2
+        width: 170
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 98}
+        - {x: 29, y: 94}
+        - {x: 33, y: 91}
+        - {x: 38, y: 88}
+        - {x: 24, y: 96}
+        - {x: 11, y: 98}
+        - {x: -4, y: 98}
+        - {x: -38, y: 95}
+        - {x: -56, y: 43}
+        - {x: -85, y: 18}
+        - {x: -85, y: -16}
+        - {x: -16, y: -98}
+        - {x: 47, y: -98}
+        - {x: 48, y: -85}
+        - {x: 85, y: -63}
+        - {x: 85, y: 98}
+    - name: Boss04-hd_33
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 2
+        width: 144
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 94}
+        - {x: 19, y: 94}
+        - {x: 19, y: 90}
+        - {x: 20, y: 87}
+        - {x: 12, y: 90}
+        - {x: -6, y: 94}
+        - {x: -32, y: 94}
+        - {x: -72, y: 78}
+        - {x: -72, y: -71}
+        - {x: -17, y: -73}
+        - {x: -15, y: -73}
+        - {x: -27, y: -73}
+        - {x: -21, y: -94}
+        - {x: 60, y: -94}
+        - {x: 72, y: -66}
+        - {x: 72, y: 60}
+        - {x: 65, y: 86}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

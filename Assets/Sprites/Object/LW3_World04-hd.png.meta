@@ -1,0 +1,1113 @@
+fileFormatVersion: 2
+guid: b6ebde2f9f7181b4cbecccbaf296c9b9
+timeCreated: 1465117554
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LW3_World04-hd_0
+    21300002: LW3_World04-hd_1
+    21300004: LW3_World04-hd_2
+    21300006: LW3_World04-hd_3
+    21300008: LW3_World04-hd_4
+    21300010: LW3_World04-hd_5
+    21300012: LW3_World04-hd_6
+    21300014: LW3_World04-hd_7
+    21300016: LW3_World04-hd_8
+    21300018: LW3_World04-hd_9
+    21300020: LW3_World04-hd_10
+    21300022: LW3_World04-hd_11
+    21300024: LW3_World04-hd_12
+    21300026: LW3_World04-hd_13
+    21300028: LW3_World04-hd_14
+    21300030: LW3_World04-hd_15
+    21300032: LW3_World04-hd_16
+    21300034: LW3_World04-hd_17
+    21300036: LW3_World04-hd_18
+    21300038: LW3_World04-hd_19
+    21300040: LW3_World04-hd_20
+    21300042: LW3_World04-hd_21
+    21300044: LW3_World04-hd_22
+    21300046: LW3_World04-hd_23
+    21300048: LW3_World04-hd_24
+    21300050: LW3_World04-hd_25
+    21300052: LW3_World04-hd_26
+    21300054: LW3_World04-hd_27
+    21300056: LW3_World04-hd_28
+    21300058: LW3_World04-hd_29
+    21300060: LW3_World04-hd_30
+    21300062: LW3_World04-hd_31
+    21300064: LW3_World04-hd_32
+    21300066: LW3_World04-hd_33
+    21300068: LW3_World04-hd_34
+    21300070: LW3_World04-hd_35
+    21300072: LW3_World04-hd_36
+    21300074: LW3_World04-hd_37
+    21300076: LW3_World04-hd_38
+    21300078: LW3_World04-hd_39
+    21300080: LW3_World04-hd_40
+    21300082: LW3_World04-hd_41
+    21300084: LW3_World04-hd_42
+    21300086: LW3_World04-hd_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LW3_World04-hd_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1406
+        width: 1200
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -600, y: 320}
+        - {x: -600, y: -320}
+        - {x: 600, y: -320}
+        - {x: 600, y: 320}
+    - name: LW3_World04-hd_1
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1046
+        width: 768
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 335, y: 500}
+        - {x: 333, y: 494}
+        - {x: 334, y: 470}
+        - {x: 334, y: 444}
+        - {x: 333, y: 443}
+        - {x: 329, y: 410}
+        - {x: 327, y: 406}
+        - {x: 320, y: 384}
+        - {x: 313, y: 369}
+        - {x: 311, y: 367}
+        - {x: 303, y: 355}
+        - {x: 297, y: 348}
+        - {x: 286, y: 337}
+        - {x: 271, y: 329}
+        - {x: 256, y: 334}
+        - {x: 245, y: 331}
+        - {x: 235, y: 328}
+        - {x: 230, y: 324}
+        - {x: 224, y: 324}
+        - {x: 131, y: 323}
+        - {x: 121, y: 324}
+        - {x: 115, y: 319}
+        - {x: 110, y: 309}
+        - {x: 100, y: 299}
+        - {x: 86, y: 295}
+        - {x: 83, y: 299}
+        - {x: 78, y: 302}
+        - {x: 65, y: 301}
+        - {x: 61, y: 295}
+        - {x: 56, y: 295}
+        - {x: 53, y: 293}
+        - {x: -78, y: 293}
+        - {x: -84, y: 291}
+        - {x: -88, y: 294}
+        - {x: -163, y: 293}
+        - {x: -165, y: 295}
+        - {x: -169, y: 295}
+        - {x: -177, y: 302}
+        - {x: -191, y: 301}
+        - {x: -195, y: 295}
+        - {x: -200, y: 295}
+        - {x: -203, y: 293}
+        - {x: -321, y: 293}
+        - {x: -325, y: 294}
+        - {x: -336, y: 294}
+        - {x: -384, y: 293}
+        - {x: -384, y: 42}
+        - {x: -204, y: 42}
+        - {x: -202, y: 39}
+        - {x: -193, y: 34}
+        - {x: -187, y: 33}
+        - {x: -178, y: 33}
+        - {x: -173, y: 35}
+        - {x: -166, y: 38}
+        - {x: -162, y: 42}
+        - {x: 53, y: 42}
+        - {x: 54, y: 40}
+        - {x: 68, y: 33}
+        - {x: 78, y: 32}
+        - {x: 87, y: 38}
+        - {x: 95, y: 38}
+        - {x: 100, y: 36}
+        - {x: 110, y: 26}
+        - {x: 115, y: 16}
+        - {x: 119, y: 13}
+        - {x: 124, y: 12}
+        - {x: 231, y: 12}
+        - {x: 231, y: 9}
+        - {x: 237, y: 4}
+        - {x: 242, y: 4}
+        - {x: 248, y: 0}
+        - {x: 262, y: 0}
+        - {x: 268, y: 5}
+        - {x: 279, y: 5}
+        - {x: 289, y: -2}
+        - {x: 301, y: -14}
+        - {x: 310, y: -27}
+        - {x: 318, y: -42}
+        - {x: 324, y: -57}
+        - {x: 330, y: -81}
+        - {x: 332, y: -94}
+        - {x: 333, y: -105}
+        - {x: 334, y: -130}
+        - {x: 334, y: -218}
+        - {x: 333, y: -219}
+        - {x: 331, y: -236}
+        - {x: 325, y: -263}
+        - {x: 322, y: -272}
+        - {x: 315, y: -287}
+        - {x: 309, y: -299}
+        - {x: 300, y: -310}
+        - {x: 300, y: -312}
+        - {x: 280, y: -329}
+        - {x: 270, y: -328}
+        - {x: 262, y: -325}
+        - {x: 248, y: -325}
+        - {x: 235, y: -328}
+        - {x: 231, y: -334}
+        - {x: 120, y: -335}
+        - {x: 116, y: -337}
+        - {x: 111, y: -347}
+        - {x: 99, y: -359}
+        - {x: 91, y: -362}
+        - {x: 78, y: -356}
+        - {x: 68, y: -356}
+        - {x: 65, y: -357}
+        - {x: 61, y: -362}
+        - {x: 44, y: -363}
+        - {x: -88, y: -363}
+        - {x: -91, y: -364}
+        - {x: -98, y: -364}
+        - {x: -103, y: -363}
+        - {x: -143, y: -363}
+        - {x: -146, y: -362}
+        - {x: -161, y: -362}
+        - {x: -169, y: -361}
+        - {x: -173, y: -358}
+        - {x: -178, y: -356}
+        - {x: -187, y: -356}
+        - {x: -191, y: -357}
+        - {x: -198, y: -364}
+        - {x: -203, y: -364}
+        - {x: -208, y: -362}
+        - {x: -214, y: -362}
+        - {x: -250, y: -363}
+        - {x: -301, y: -363}
+        - {x: -306, y: -366}
+        - {x: -309, y: -362}
+        - {x: -316, y: -362}
+        - {x: -319, y: -363}
+        - {x: -382, y: -363}
+        - {x: -384, y: -364}
+        - {x: -384, y: -500}
+        - {x: 384, y: -500}
+        - {x: 384, y: 500}
+    - name: LW3_World04-hd_2
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1987
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 29.5}
+        - {x: -28.5, y: -29.5}
+        - {x: 15.5, y: -29.5}
+        - {x: 28.5, y: -24.5}
+        - {x: 28.5, y: 22.5}
+        - {x: 20.5, y: 29.5}
+    - name: LW3_World04-hd_3
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1926
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 26.5}
+        - {x: 14.5, y: 29.5}
+        - {x: -18.5, y: 29.5}
+        - {x: -28.5, y: 20.5}
+        - {x: -29.5, y: 17.5}
+        - {x: -29.5, y: -18.5}
+        - {x: -14.5, y: -29.5}
+        - {x: 12.5, y: -29.5}
+        - {x: 26.5, y: -19.5}
+        - {x: 29.5, y: -12.5}
+        - {x: 29.5, y: 17.5}
+    - name: LW3_World04-hd_4
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1865
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 29.5}
+        - {x: -18, y: 29.5}
+        - {x: -29, y: 20.5}
+        - {x: -29, y: -19.5}
+        - {x: -19, y: -29.5}
+        - {x: 26, y: -29.5}
+        - {x: 29, y: -18.5}
+        - {x: 29, y: 20.5}
+        - {x: 24, y: 27.5}
+    - name: LW3_World04-hd_5
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1805
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 29}
+        - {x: -29, y: 18}
+        - {x: -29, y: -28}
+        - {x: -28, y: -29}
+        - {x: 20, y: -29}
+        - {x: 29, y: -27}
+        - {x: 29, y: 27}
+        - {x: 25, y: 29}
+    - name: LW3_World04-hd_6
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1748
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 27}
+        - {x: -27, y: 27}
+        - {x: -27, y: -26}
+        - {x: -23, y: -27}
+        - {x: 23, y: -27}
+        - {x: 27, y: -22}
+        - {x: 27, y: 26}
+    - name: LW3_World04-hd_7
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1692
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -27, y: -27}
+        - {x: 27, y: -27}
+        - {x: 27, y: 27}
+    - name: LW3_World04-hd_8
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1636
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -27, y: -27}
+        - {x: 27, y: -27}
+        - {x: 27, y: 27}
+    - name: LW3_World04-hd_9
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1580
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -27, y: -27}
+        - {x: 27, y: -27}
+        - {x: 27, y: 27}
+    - name: LW3_World04-hd_10
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1524
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -27, y: -27}
+        - {x: 27, y: -27}
+        - {x: 27, y: 27}
+    - name: LW3_World04-hd_11
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1468
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -27, y: -27}
+        - {x: 27, y: -27}
+        - {x: 27, y: 27}
+    - name: LW3_World04-hd_12
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1412
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -27, y: -27}
+        - {x: 27, y: -27}
+        - {x: 27, y: 27}
+    - name: LW3_World04-hd_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1047
+        width: 193
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.5, y: 134.5}
+        - {x: 58.5, y: 164.5}
+        - {x: 44.5, y: 177.5}
+        - {x: 39.5, y: 178.5}
+        - {x: -52.5, y: 178.5}
+        - {x: -63.5, y: 166.5}
+        - {x: -62.5, y: 163.5}
+        - {x: -96.5, y: 130.5}
+        - {x: -96.5, y: 13.5}
+        - {x: -70.5, y: -70.5}
+        - {x: -64.5, y: -178.5}
+        - {x: 60.5, y: -178.5}
+        - {x: 63.5, y: -32.5}
+        - {x: 96.5, y: 26.5}
+        - {x: 96.5, y: 38.5}
+      - - {x: -60.5, y: -43.5}
+        - {x: -57.5, y: -42.5}
+        - {x: -57.5, y: -39.5}
+        - {x: -60.5, y: -38.5}
+        - {x: -62.5, y: -40.5}
+    - name: LW3_World04-hd_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1233
+        width: 254
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: 84.5}
+        - {x: -46, y: 84.5}
+        - {x: -105, y: 72.5}
+        - {x: -127, y: 31.5}
+        - {x: -127, y: -4.5}
+        - {x: -114, y: -12.5}
+        - {x: -111, y: -11.5}
+        - {x: -110, y: -8.5}
+        - {x: -110, y: -9.5}
+        - {x: -109, y: -15.5}
+        - {x: -68, y: -84.5}
+        - {x: 83, y: -84.5}
+        - {x: 127, y: -11.5}
+        - {x: 127, y: 34.5}
+        - {x: 92, y: 73.5}
+      - - {x: -118, y: -11.5}
+        - {x: -115, y: -10.5}
+        - {x: -115, y: -7.5}
+        - {x: -118, y: -6.5}
+        - {x: -120, y: -8.5}
+    - name: LW3_World04-hd_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1233
+        width: 255
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 127.5, y: 30.5}
+        - {x: 115.5, y: 50.5}
+        - {x: 52.5, y: 84.5}
+        - {x: -33.5, y: 84.5}
+        - {x: -84.5, y: 67.5}
+        - {x: -127.5, y: 36.5}
+        - {x: -127.5, y: -17.5}
+        - {x: -105.5, y: -28.5}
+        - {x: -64.5, y: -84.5}
+        - {x: 73.5, y: -84.5}
+        - {x: 97.5, y: -55.5}
+        - {x: 126.5, y: -0.5}
+        - {x: 127.5, y: 4.5}
+    - name: LW3_World04-hd_16
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1350
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -27, y: -27}
+        - {x: 27, y: -27}
+        - {x: 27, y: 27}
+    - name: LW3_World04-hd_17
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1221
+        width: 396
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 198, y: -0.5}
+        - {x: 198, y: 13.5}
+        - {x: 166, y: 19.5}
+        - {x: 149, y: 72.5}
+        - {x: 117, y: 78.5}
+        - {x: 95, y: 91.5}
+        - {x: -20, y: 91.5}
+        - {x: -101, y: 74.5}
+        - {x: -198, y: 62.5}
+        - {x: -198, y: -54.5}
+        - {x: -186, y: -53.5}
+        - {x: -135, y: -66.5}
+        - {x: -19, y: -70.5}
+        - {x: -1, y: -91.5}
+        - {x: 100, y: -91.5}
+        - {x: 126, y: -45.5}
+        - {x: 150, y: -70.5}
+        - {x: 174, y: -23.5}
+    - name: LW3_World04-hd_18
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1356
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -27, y: -27}
+        - {x: 27, y: -27}
+        - {x: 27, y: 27}
+    - name: LW3_World04-hd_19
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1300
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -27, y: -27}
+        - {x: 27, y: -27}
+        - {x: 27, y: 27}
+    - name: LW3_World04-hd_20
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1244
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -27, y: -27}
+        - {x: 27, y: -27}
+        - {x: 27, y: 27}
+    - name: LW3_World04-hd_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1048
+        width: 253
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.5, y: 77}
+        - {x: 31.5, y: 84}
+        - {x: -28.5, y: 84}
+        - {x: -57.5, y: 79}
+        - {x: -93.5, y: 59}
+        - {x: -126.5, y: 36}
+        - {x: -126.5, y: -14}
+        - {x: -66.5, y: -84}
+        - {x: 74.5, y: -84}
+        - {x: 126.5, y: -6}
+        - {x: 126.5, y: 36}
+        - {x: 119.5, y: 48}
+    - name: LW3_World04-hd_22
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1025
+        width: 122
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 56}
+        - {x: -41, y: 97}
+        - {x: -61, y: 97}
+        - {x: -61, y: -97}
+        - {x: -21, y: -97}
+        - {x: 29, y: -89}
+        - {x: 59, y: -73}
+        - {x: 61, y: -61}
+        - {x: 61, y: 40}
+    - name: LW3_World04-hd_23
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1103
+        width: 170
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -21.5}
+        - {x: 14, y: -21.5}
+        - {x: 12, y: -23.5}
+        - {x: 14, y: -19.5}
+        - {x: 31, y: -22.5}
+        - {x: 32, y: -22.5}
+        - {x: 35, y: -19.5}
+        - {x: 49, y: -21.5}
+        - {x: 81, y: -18.5}
+        - {x: 85, y: -13.5}
+        - {x: 85, y: 12.5}
+        - {x: 81, y: 17.5}
+        - {x: 50, y: 22.5}
+        - {x: 31, y: 22.5}
+        - {x: 18, y: 14.5}
+        - {x: 8, y: 23.5}
+        - {x: 14, y: 20.5}
+        - {x: 17, y: 20.5}
+        - {x: 19, y: 24.5}
+        - {x: 29, y: 22.5}
+        - {x: 33, y: 22.5}
+        - {x: 61, y: 24.5}
+        - {x: 74, y: 40.5}
+        - {x: 72, y: 63.5}
+        - {x: 68, y: 64.5}
+        - {x: 3, y: 64.5}
+        - {x: -10, y: 46.5}
+        - {x: -85, y: 35.5}
+        - {x: -85, y: -35.5}
+        - {x: -82, y: -64.5}
+        - {x: 84, y: -64.5}
+        - {x: 75, y: -27.5}
+        - {x: 33, y: -22.5}
+        - {x: 19, y: -24.5}
+    - name: LW3_World04-hd_24
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1048
+        width: 252
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126, y: 36.5}
+        - {x: 115, y: 48.5}
+        - {x: 76, y: 73.5}
+        - {x: 45, y: 84.5}
+        - {x: -33, y: 84.5}
+        - {x: -88, y: 68.5}
+        - {x: -126, y: 28.5}
+        - {x: -126, y: -7.5}
+        - {x: -116, y: -19.5}
+        - {x: -61, y: -84.5}
+        - {x: 71, y: -84.5}
+        - {x: 79, y: -80.5}
+        - {x: 124, y: -19.5}
+        - {x: 126, y: -5.5}
+    - name: LW3_World04-hd_25
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 968
+        width: 171
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.5, y: 79.5}
+        - {x: 31.5, y: 123.5}
+        - {x: -6.5, y: 123.5}
+        - {x: -67.5, y: 72.5}
+        - {x: -85.5, y: 61.5}
+        - {x: -85.5, y: -74.5}
+        - {x: -55.5, y: -96.5}
+        - {x: -8.5, y: -123.5}
+        - {x: 40.5, y: -123.5}
+        - {x: 79.5, y: -71.5}
+        - {x: 85.5, y: -41.5}
+        - {x: 85.5, y: 38.5}
+    - name: LW3_World04-hd_26
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1188
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -27, y: -27}
+        - {x: 27, y: -27}
+        - {x: 27, y: 27}
+    - name: LW3_World04-hd_27
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1132
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -27, y: -27}
+        - {x: 27, y: -27}
+        - {x: 27, y: 27}
+    - name: LW3_World04-hd_28
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1076
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -27, y: -27}
+        - {x: 27, y: -27}
+        - {x: 27, y: 27}
+    - name: LW3_World04-hd_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1020
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LW3_World04-hd_30
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1020
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LW3_World04-hd_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1020
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LW3_World04-hd_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1020
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LW3_World04-hd_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1021
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LW3_World04-hd_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1021
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LW3_World04-hd_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1021
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LW3_World04-hd_36
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1021
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LW3_World04-hd_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1021
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LW3_World04-hd_38
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1022
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LW3_World04-hd_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1022
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LW3_World04-hd_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1023
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LW3_World04-hd_41
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 930
+        width: 139
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 58}
+        - {x: -69.5, y: 54}
+        - {x: -69.5, y: 25}
+        - {x: -21.5, y: -58}
+        - {x: 50.5, y: -58}
+        - {x: 69.5, y: -21}
+        - {x: 69.5, y: 48}
+        - {x: 62.5, y: 58}
+    - name: LW3_World04-hd_42
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1020
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -27, y: -27}
+        - {x: 27, y: -27}
+        - {x: 27, y: 27}
+    - name: LW3_World04-hd_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 768
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -384, y: 500}
+        - {x: -384, y: 386}
+        - {x: -339, y: 386}
+        - {x: -334, y: 389}
+        - {x: -330, y: 386}
+        - {x: -205, y: 386}
+        - {x: -200, y: 383}
+        - {x: -191, y: 378}
+        - {x: -186, y: 376}
+        - {x: -177, y: 376}
+        - {x: -169, y: 382}
+        - {x: -165, y: 383}
+        - {x: -162, y: 386}
+        - {x: -57, y: 386}
+        - {x: -54, y: 387}
+        - {x: -48, y: 387}
+        - {x: -45, y: 386}
+        - {x: 52, y: 386}
+        - {x: 56, y: 383}
+        - {x: 65, y: 378}
+        - {x: 73, y: 376}
+        - {x: 79, y: 376}
+        - {x: 87, y: 382}
+        - {x: 95, y: 381}
+        - {x: 103, y: 376}
+        - {x: 113, y: 364}
+        - {x: 115, y: 360}
+        - {x: 119, y: 355}
+        - {x: 232, y: 355}
+        - {x: 232, y: 353}
+        - {x: 235, y: 348}
+        - {x: 244, y: 345}
+        - {x: 258, y: 342}
+        - {x: 269, y: 348}
+        - {x: 280, y: 342}
+        - {x: 289, y: 335}
+        - {x: 301, y: 323}
+        - {x: 310, y: 310}
+        - {x: 324, y: 282}
+        - {x: 324, y: 279}
+        - {x: 330, y: 256}
+        - {x: 332, y: 243}
+        - {x: 333, y: 232}
+        - {x: 334, y: 208}
+        - {x: 334, y: 106}
+        - {x: 333, y: 105}
+        - {x: 327, y: 67}
+        - {x: 321, y: 48}
+        - {x: 320, y: 43}
+        - {x: 312, y: 30}
+        - {x: 302, y: 14}
+        - {x: 287, y: -2}
+        - {x: 286, y: -2}
+        - {x: 277, y: -9}
+        - {x: 270, y: -8}
+        - {x: 262, y: -5}
+        - {x: 252, y: -4}
+        - {x: 242, y: -7}
+        - {x: 235, y: -8}
+        - {x: 232, y: -12}
+        - {x: 231, y: -14}
+        - {x: 120, y: -14}
+        - {x: 115, y: -18}
+        - {x: 109, y: -29}
+        - {x: 101, y: -37}
+        - {x: 93, y: -42}
+        - {x: 85, y: -42}
+        - {x: 83, y: -38}
+        - {x: 78, y: -36}
+        - {x: 68, y: -36}
+        - {x: 65, y: -37}
+        - {x: 48, y: -45}
+        - {x: -162, y: -45}
+        - {x: -165, y: -42}
+        - {x: -173, y: -38}
+        - {x: -178, y: -35}
+        - {x: -191, y: -36}
+        - {x: -195, y: -42}
+        - {x: -200, y: -42}
+        - {x: -204, y: -45}
+        - {x: -384, y: -45}
+        - {x: -384, y: -295}
+        - {x: -383, y: -296}
+        - {x: -250, y: -296}
+        - {x: -243, y: -295}
+        - {x: -237, y: -296}
+        - {x: -224, y: -297}
+        - {x: -208, y: -296}
+        - {x: -196, y: -298}
+        - {x: -188, y: -305}
+        - {x: -178, y: -305}
+        - {x: -170, y: -300}
+        - {x: -162, y: -296}
+        - {x: -147, y: -296}
+        - {x: -141, y: -297}
+        - {x: -133, y: -297}
+        - {x: -88, y: -296}
+        - {x: 54, y: -296}
+        - {x: 58, y: -298}
+        - {x: 63, y: -302}
+        - {x: 69, y: -304}
+        - {x: 78, y: -304}
+        - {x: 83, y: -302}
+        - {x: 90, y: -298}
+        - {x: 100, y: -301}
+        - {x: 110, y: -311}
+        - {x: 114, y: -321}
+        - {x: 122, y: -326}
+        - {x: 134, y: -326}
+        - {x: 232, y: -325}
+        - {x: 232, y: -327}
+        - {x: 234, y: -331}
+        - {x: 249, y: -336}
+        - {x: 258, y: -337}
+        - {x: 262, y: -337}
+        - {x: 268, y: -332}
+        - {x: 274, y: -332}
+        - {x: 285, y: -338}
+        - {x: 296, y: -348}
+        - {x: 302, y: -355}
+        - {x: 311, y: -369}
+        - {x: 321, y: -386}
+        - {x: 321, y: -389}
+        - {x: 325, y: -400}
+        - {x: 331, y: -427}
+        - {x: 332, y: -434}
+        - {x: 333, y: -447}
+        - {x: 334, y: -469}
+        - {x: 334, y: -495}
+        - {x: 335, y: -500}
+        - {x: 384, y: -500}
+        - {x: 384, y: 500}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
